@@ -10,7 +10,13 @@
     "task1": "node task1.cjs",
     "task2": "node task2.js",
     "task3": "node task3.js",
-    "task5":"node task5.js"
+    "task5":"node task5.js",
+    "prob1":"node task1prob.js",
+    "exam1":"node exam1.js",
+    "exam2":"node exam2.js",
+    "exam4":"node exam4.js",
+    "exam5":"node exam5.js",
+    "exam6":"node exam6.js"
   },
   "author": "",
   "license": "ISC",
